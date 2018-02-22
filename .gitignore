@@ -33,6 +33,9 @@
 *.app
 ### Eclipse ###
 
+# Executable
+TestDate/Debug/TestDate
+
 .metadata
 bin/
 tmp/
@@ -84,10 +87,10 @@ local.properties
 .worksheet
 
 ### Eclipse Patch ###
-# Eclipse Core		
+# Eclipse Core
 .project
 
-# JDT-specific (Eclipse Java Development Tools)		
+# JDT-specific (Eclipse Java Development Tools)
 .classpath
 
 ### Linux ###
